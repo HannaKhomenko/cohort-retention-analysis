@@ -76,13 +76,20 @@ Final query: [`sql/Cohort_analysis_FP_1_Khomenko_final.sql`](sql/Cohort_analysis
 
 ## 🖼 Screenshots
 
-![Retention cohort table, organic vs promo](images/cohort-tables.png)
+**All users**
+![All users](images/cohort-all.png)
+
+**Organic users**
+![Organic users](images/cohort-organic.png)
+
+**Promo users**
+![Promo users](images/cohort-promo.png)
 
 ---
 
 ## 🛠 Skills demonstrated
 
-| | |
+| Area | Skills |
 |---|---|
 | **SQL** | CTEs, joins, filtering, regex-based date parsing, cohort and month-offset calculation, aggregation |
 | **Google Sheets** | Pivot tables, mixed-reference formulas, conditional formatting |
