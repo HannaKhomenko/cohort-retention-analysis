@@ -70,7 +70,7 @@ Final query: [`sql/Cohort_analysis_FP_1_Khomenko_final.sql`](sql/Cohort_analysis
 3. **Invest in early retention.** Focus on the first 30 days: promo cohorts lose about half of their audience between month 0 and month 1.
 4. **Scale organic channels.** Shift part of the promo budget toward product improvement and referral mechanics ("invite a friend", sharing, content sharing by current users) to bring in loyal users who find the product themselves and stay longer.
 
-🔗 [Google Sheets cohort model](#) *(add link)*
+🔗 [Google Sheets cohort model](https://docs.google.com/spreadsheets/d/1YE_AwK6lvfs4sGcmUpeZucy5gmYDZcSgJPxOoxCoc64/edit?usp=drive_link)
 
 ---
 
