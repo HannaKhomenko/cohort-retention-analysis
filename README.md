@@ -105,5 +105,7 @@ cohort-retention-analysis/
 ├── sql/
 │   └── Cohort_analysis_FP_1_Khomenko_final.sql
 └── images/
-    └── cohort-tables.png
+    ├── cohort-all.png
+    ├── cohort-organic.png
+    └── cohort-promo.png
 ```
