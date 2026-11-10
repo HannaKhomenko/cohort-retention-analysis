@@ -10,7 +10,7 @@ Evaluating user retention with cohort analysis. The project has two stages:
 
 ---
 
-## Project goal
+## 🎯 Goal
 
 Show how user retention changes over the first months of a user's life in the product, and answer a practical business question: **which acquisition channels bring users who stay and pay?**
 
@@ -23,7 +23,7 @@ Key questions:
 
 ---
 
-## Data
+## 🗂 Data
 
 The project uses two raw tables from a training dataset (course project).
 
@@ -60,7 +60,7 @@ Stage 1 uses the signup date, promo flag and event dates. Stage 2 also uses coun
 
 ---
 
-## Approach
+## 🔧 Approach
 
 ### Stage 1. Retention analysis: SQL and Google Sheets
 
@@ -90,7 +90,7 @@ Query: [`sql/Cohort_analysis_FP_1_Khomenko_final.sql`](sql/Cohort_analysis_FP_1_
 
 ---
 
-## Results
+## 📈 Results
 
 ### Stage 1. Retention: promo vs. organic
 - **Organic cohorts keep over half of their users in month 5, while promo cohorts fall below 10%.**
@@ -118,7 +118,7 @@ Period: January – June 2025 signup cohorts, 600 users, $1,815 total revenue.
 
 ---
 
-## Screenshots
+## 🖼 Screenshots
 
 **Google Sheets: cohort tables**<br>
 <img src="images/cohort-all.png" width="700" alt="Cohort retention table, all users">
@@ -141,7 +141,7 @@ Period: January – June 2025 signup cohorts, 600 users, $1,815 total revenue.
 
 ---
 
-## Skills
+## 🛠 Skills
 
 | Area | Skills |
 |---|---|
@@ -153,7 +153,7 @@ Period: January – June 2025 signup cohorts, 600 users, $1,815 total revenue.
 
 ---
 
-## Repository structure
+## 📁 Repository structure
 
 ```
 cohort-retention-analysis/
