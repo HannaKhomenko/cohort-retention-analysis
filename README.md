@@ -120,14 +120,16 @@ Period: January – June 2025 signup cohorts, 600 users, $1,815 total revenue.
 
 ## 🖼 Screenshots
 
-**Google Sheets: cohort tables**<br>
+**Google Sheets: cohort tables for all users**<br>
 <img src="images/cohort-all.png" width="700" alt="Cohort retention table, all users">
 
+**Organic users**<br>
 <img src="images/cohort-organic.png" width="700" alt="Cohort retention table, organic users">
 
+**Promo users**<br>
 <img src="images/cohort-promo.png" width="700" alt="Cohort retention table, promo users">
 
-**Tableau dashboard: promo vs. organic**<br>
+**Tableau dashboard: Promo vs. Organic**<br>
 <img src="images/tableau-overview.png" width="700" alt="Retention and LTV dashboard, promo vs organic">
 
 **By device**<br>
